@@ -1,10 +1,10 @@
 // Data awal teman-teman
 const friendsData = [
-    { NIM: '123456789', Nama: 'Alice', Kelas: 'A', Prodi: 'Informatika', Alamat: 'Jakarta' },
-    { NIM: '987654321', Nama: 'Bob', Kelas: 'B', Prodi: 'Matematika', Alamat: 'Bandung' },
-    { NIM: '135792468', Nama: 'Charlie', Kelas: 'C', Prodi: 'Fisika', Alamat: 'Surabaya' },
-    { NIM: '246813579', Nama: 'David', Kelas: 'A', Prodi: 'Kimia', Alamat: 'Yogyakarta' },
-    { NIM: '111223344', Nama: 'Eve', Kelas: 'B', Prodi: 'Biologi', Alamat: 'Semarang' }
+    { NIM: '123456789', Nama: 'Adam', Kelas: 'A', Prodi: 'SI', Alamat: 'Bandung' },
+    { NIM: '987654321', Nama: 'iqbal', Kelas: 'A', Prodi: 'SI', Alamat: 'Bandung' },
+    { NIM: '135792468', Nama: 'reza', Kelas: 'A', Prodi: 'SI', Alamat: 'Cianjur' },
+    { NIM: '246813579', Nama: 'fefeb', Kelas: 'A', Prodi: 'SI', Alamat: 'Bandung' },
+    { NIM: '111223344', Nama: 'haris', Kelas: 'A', Prodi: 'SI', Alamat: 'Bandung' }
   ];
   
   const tableBody = document.querySelector('#friendsTable tbody');
